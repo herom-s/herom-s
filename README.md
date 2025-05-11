@@ -1,16 +1,21 @@
-## Hi there 👋
+# Hi there, I’m Herom Silva 👋
 
-<!--
-**herom-s/herom-s** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+- 🎂 I’m 23 years old and fueled by a love for **algorithms**  
+- 💻 Currently exploring algorithmic challenges and open-source contributions  
+- 🌱 Learning advanced data structures.
 
-Here are some ideas to get you started:
+<div align="center">
+  <img height="160" src="https://github-readme-stats.vercel.app/api?username=herom-s&show_icons=true&theme=radical" />
+  <img height="160" src="https://github-readme-stats.vercel.app/api/top-langs/?username=herom-s&layout=compact&theme=radical" />
+</div>
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+---
+
+## 📫 Connect with Me
+- 💼 LinkedIn: [herom-silva](https://www.linkedin.com/in/herom-silva-8b417a1ba)  
+- 📫 Email: [heromapp1@gmail.com](mailto:heromapp1@gmail.com)  
+- 🔗 Find my work on [GitHub](https://github.com/herom-s/)
+
+---
+
+> “Stay curious, keep coding, and let algorithms guide the way.” 🚀
