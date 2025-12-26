@@ -13,8 +13,7 @@
 
 ## 📫 Connect with Me
 - 💼 LinkedIn: [herom-silva](https://www.linkedin.com/in/herom-silva-8b417a1ba)  
-- 📫 Email: [heromapp1@gmail.com](mailto:heromapp1@gmail.com)  
-- 🔗 Find my work on [GitHub](https://github.com/herom-s/)
+- 📫 Email: [heromapp1@gmail.com](mailto:heromapp1@gmail.com)
 
 ---
 
