@@ -1,6 +1,6 @@
 # Hi there, I’m Herom Silva 👋
 
-- 🎂 I’m 23 years old and fueled by a love for **algorithms**  
+- 🎂 I’m 24 years old and fueled by a love for **algorithms**  
 - 💻 Currently exploring algorithmic challenges and open-source contributions  
 - 🌱 Learning advanced data structures.
 
