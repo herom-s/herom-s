@@ -5,7 +5,8 @@
 - 🌱 Learning advanced data structures.
 
 <div align="center">
-  [![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=herom-s)](https://github.com/anuraghazra/github-readme-stats)
+  <img height="160" src="https://github-readme-stats.vercel.app/api?username=herom-s&show_icons=true&theme=radical" />
+  <img height="160" src="https://github-readme-stats.vercel.app/api/top-langs/?username=herom-s&layout=compact&theme=radical" />
 </div>
 
 ---
